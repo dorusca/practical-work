@@ -1,0 +1,15 @@
+D:\Desktop\seminar\practica\bin\Debug\net6.0\practica.exe
+D:\Desktop\seminar\practica\bin\Debug\net6.0\practica.deps.json
+D:\Desktop\seminar\practica\bin\Debug\net6.0\practica.runtimeconfig.json
+D:\Desktop\seminar\practica\bin\Debug\net6.0\practica.dll
+D:\Desktop\seminar\practica\bin\Debug\net6.0\practica.pdb
+D:\Desktop\seminar\practica\obj\Debug\net6.0\practica.csproj.AssemblyReference.cache
+D:\Desktop\seminar\practica\obj\Debug\net6.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\seminar\practica\obj\Debug\net6.0\practica.AssemblyInfoInputs.cache
+D:\Desktop\seminar\practica\obj\Debug\net6.0\practica.AssemblyInfo.cs
+D:\Desktop\seminar\practica\obj\Debug\net6.0\practica.csproj.CoreCompileInputs.cache
+D:\Desktop\seminar\practica\obj\Debug\net6.0\practica.dll
+D:\Desktop\seminar\practica\obj\Debug\net6.0\refint\practica.dll
+D:\Desktop\seminar\practica\obj\Debug\net6.0\practica.pdb
+D:\Desktop\seminar\practica\obj\Debug\net6.0\practica.genruntimeconfig.cache
+D:\Desktop\seminar\practica\obj\Debug\net6.0\ref\practica.dll

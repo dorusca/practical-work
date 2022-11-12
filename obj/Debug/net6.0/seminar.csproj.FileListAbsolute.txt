@@ -1,0 +1,15 @@
+D:\Desktop\seminar\bin\Debug\net6.0\seminar.exe
+D:\Desktop\seminar\bin\Debug\net6.0\seminar.deps.json
+D:\Desktop\seminar\bin\Debug\net6.0\seminar.runtimeconfig.json
+D:\Desktop\seminar\bin\Debug\net6.0\seminar.dll
+D:\Desktop\seminar\bin\Debug\net6.0\seminar.pdb
+D:\Desktop\seminar\obj\Debug\net6.0\seminar.csproj.AssemblyReference.cache
+D:\Desktop\seminar\obj\Debug\net6.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\seminar\obj\Debug\net6.0\seminar.AssemblyInfoInputs.cache
+D:\Desktop\seminar\obj\Debug\net6.0\seminar.AssemblyInfo.cs
+D:\Desktop\seminar\obj\Debug\net6.0\seminar.csproj.CoreCompileInputs.cache
+D:\Desktop\seminar\obj\Debug\net6.0\seminar.dll
+D:\Desktop\seminar\obj\Debug\net6.0\refint\seminar.dll
+D:\Desktop\seminar\obj\Debug\net6.0\seminar.pdb
+D:\Desktop\seminar\obj\Debug\net6.0\seminar.genruntimeconfig.cache
+D:\Desktop\seminar\obj\Debug\net6.0\ref\seminar.dll
